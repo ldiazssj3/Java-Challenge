@@ -12,6 +12,7 @@ Java Challenge
 ### Sample Input
 ```
   array: [7 , 6,  4, -1, 1 ,2]
+  targetSum = 16
 ```
   
 ### Sample Output
